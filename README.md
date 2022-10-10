@@ -1,3 +1,19 @@
+# High School
+
+### Code link [Click here](https://github.com/nurulcse7/high-school)
+
+### Live link [Click here]()
+
+### Description
+
+### Technology
+
+1. JavaScript
+2. React.js
+3. React Router Dom
+4. React-Context
+
+<!--
 # Getting Started with Create React App
 
 This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
@@ -69,3 +85,5 @@ This section has moved here: [https://facebook.github.io/create-react-app/docs/d
 
 This section has moved here: [https://facebook.github.io/create-react-app/docs/troubleshooting#npm-run-build-fails-to-minify](https://facebook.github.io/create-react-app/docs/troubleshooting#npm-run-build-fails-to-minify)
 # high-school
+
+ -->
